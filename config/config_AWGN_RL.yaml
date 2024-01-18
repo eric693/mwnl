@@ -1,0 +1,17 @@
+snr: -5
+multiple_sample: 5
+scheduled_sampling_start: -1
+iscomplex: 1
+channel_type: awgn
+batch_size: 4
+channel_dim: 8
+ckpt_resume: 100
+lr_milestones: '160'
+max_epoch: 209
+seeds: 7
+init_learning_rate: 1e-4
+save_model_path: './ckpt_AWGN_RL/'
+RL_training: 1
+reward_type: 'CIDEr'
+device: 'cuda:0'
+backbone: 'LSTM'

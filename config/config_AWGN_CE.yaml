@@ -1,0 +1,17 @@
+snr: 0
+multiple_sample: 5
+scheduled_sampling_start: 18
+iscomplex: 0
+channel_type: 'awgn' #awgn #phase_invariant_fading
+batch_size: 1
+channel_dim: 2
+ckpt_resume: -1
+lr_milestones: '30 100'
+max_epoch: 100
+seeds: 7
+init_learning_rate: 0.001 # 1e-3
+save_model_path: './ckpt_AWGN_CE/'
+RL_training: 0
+device: 'cuda:0' # cuda:0, cpu
+backbone: 'LSTM' #'Transformer
+
