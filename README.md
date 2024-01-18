@@ -84,7 +84,7 @@ python Evaluation/CaptionMetrics-master/Eval_Metric_Checkpoints.py --path Evalua
 
 ```
 # Output dir: std output (i.e., your screen) (sentences of type str)
-python Evaluation/Inference_Given_Input.py
+python3 Evaluation/c_2_decoder_qpsk_gaussian.py
 ```
 
 Your trained model may behave a little different from ours, but they should be similar.
