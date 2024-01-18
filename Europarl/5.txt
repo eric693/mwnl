@@ -1,0 +1,34 @@
+downlink information.
+vrb directly mapped to prb.
+start ue to gnb.
+duplicates transmission.
+beginning at the fifth slot indicates harq feedback.
+time domain resource allocated to sixth row index.
+models typically trained at high precision.
+inference at lower precision.
+gets four serving cells.
+the first slot is harq feedback.
+pucch indicates first resource.     
+gnb includes harq process number two sent to mobile device.  
+specifies nine index in mcs table. 
+numbers of resource blocks ranges is from eleven to fifteen.
+new data.
+three of redundancy version shows fourth control information.
+vrb will map to prb. 
+three serving cells. 
+data received by the user equipment from the base station.
+operates in three serving cells.
+vrb to prb was an interleaved mapping method.
+a power level of negative one decibel.
+redundancy version zero. 
+three decibels.
+begins from twenty nine index in mcs table.
+follow thirty index to mcs table.   
+mcs index will make thirty first. 
+uplink message.
+seventh pucch resource.
+the fourth slot is designated for harq feedback.
+pucch corresponds to the eighth resource.
+second control information required for version one redundancy.
+
+

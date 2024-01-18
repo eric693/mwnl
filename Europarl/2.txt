@@ -1,0 +1,12 @@
+vrb directly mapped to prb.
+start ue to gnb.
+duplicates transmission.
+downlink information.
+
+
+
+
+
+
+
+

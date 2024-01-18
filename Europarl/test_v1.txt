@@ -1,0 +1,207 @@
+
+this message will send downlink information.
+
+vrb directly mapped to prb.
+vrb to prb is an interleaved mapping way.
+
+start ue to gnb.
+
+
+sent negative one db.
+transmits zero db.
+directly sends one db.
+transfers three db.
+
+data retransmission.
+new data.
+
+
+
+
+version zero redundancy indicates first control information.
+second control information required for version one redundancy.
+redundancy version two mapped to third control information.
+three of redundancy version shows fourth control information.
+
+
+ a serving cell received.
+ takes over two serving cells.
+ receives three serving cells.
+ gets four serving cells.
+
+ the first slot is harq feedback. 000
+ harq feedback from the second slot. 001
+ from the third slot is harq feedback. 010
+ harq feedback starts the fourth slot. 011
+ beginning at the fifth slot indicates harq feedback. 100
+ harq feedback will start with the sixth slot. 101
+ feedback from the seventh slot of the harq. 110
+ eighth slot harq feedback. 111
+
+ pucch indicates first resource.     000
+ pucch resource gets second.       001
+ receives third resource in pdcch.  010
+ maps fourth pucch resource.     011
+ means fifth pucch resource.       100
+ represents sixth pucch resource.  101 
+ presents seventh pucch resource.  110 
+ denotes eighth pucch resource.  111
+
+=================================================
+ mcs table maps to zero index.     00000
+ from one index indicates mcs table.   00001
+ mcs index equals to two.   00010
+ mcs field maps the third index.   00011
+ indicating fourth index in mcs table.  00100
+ mcs field indicated five.       00101
+ mcs index will include six.   00110
+ mcs field denotes seven.     00111
+ mcs index reveals eight.     01000
+ specifies nine index in mcs table.   01001
+ mcs table indicates ten index.   01010
+ mcs index will map to eleven.    01011
+ the twelve index at mcs table.    01100
+ mcs index maps thirteen line.     01101
+ mcs table shows fourteen line.    01110
+ the mcs table implied fifteen index.   01111
+ mcs index directly mapped to sixteen.  10000
+ the seventeen field from mcs table.   10001
+ the eighteen index at mcs table.       10010
+ from the nineteen index in mcs table.   10011
+ at mcs table the twenty field.            10100
+ starts twenty first index to mcs table.    10101
+ mcs table represents twenty second.    10110
+ mcs index signifies twenty third.              10111
+ mcs table means to twenty fourth index.    11000
+ mcs index maps to twenty fiveth.               11001
+ mcs table indicates twenty sixth field.        11010
+ mcs index will map twenty seventh.            11011
+ mcs table matches twenty eighth index.      11100
+ begins from twenty nineth index in mcs table. 11101
+ follow thirty index to mcs table.   11110
+ mcs index will make thirty first.   11111
+ ==================================================
+ base station includes harq process number one sends to user equipment. 0000
+ gnb includes harq process number two sent to mobile device.   0001
+ gnb carries harq process number three transmits to mobile device.    0010
+ gnb includes harq process number four will send user equipment.    0011
+ gnb includes harq process number five to mobile device.     0100
+ base station includes harq process number six can deliver mobile device.  0101
+ gnb indicates harq process number seven will transmit ue.  0110
+ gnb makes harq process number eight to mobile device.   0111
+ base station takes harq process number nine to mobile device.  1000
+ harq process number ten starts gnb to ue.                               1001
+ base station includes harq process number eleven to mobile device.  1010
+ gnb carries harq process number twelve to user equipment.    1011
+ base station carry harq process number thirteen to mobile device.  1100
+ gnb gets harq process number fourteen sends to ue.   1101
+ gnb has harq process number fifteen delivers mobile device.  1110
+ harq process number sixteen from gnb to ue.   1111  
+ ===================================================
+ first index will represents time domain.          0000
+ time domain will map second row index.        0001
+ the third index in time domain table.               0010 
+ time domain shows the fourth row field.            0011
+ the fifth index indicated time domain.                0100
+ time domain resource allocated to sixth row index.  0101
+ seventh row index expresses time domain.     0110
+ time domain maps the eighth index.                0111 
+ the nineth row index is time domain.                1000
+ time domain gets to ten index.                        1001
+ time domain means eleven row field.                1010
+ time domain directly shows twelve row index.        1011
+ the thirteen index would implied to time domain.    1100 
+ fourteen row index will match time domain.      1101
+ fifteen row index indicates time domain.            1111
+ =====================================================
+ numbers of resource blocks ranges is from eleven to fifteen. 
+ total of resource blocks will start with sixteen to twenty two.   
+ sum of resource blocks begins at twenty third to thirty first.    
+ amounts of resource blocks started thirty second to fourty four.
+ fourty five to sixty three starts of resource blocks. 
+ the number of resource blocks ranges from sixty four to ninety.   
+ the resource blocks has ninety first to one hundred twenty seven.  
+ the resource blocks starts one hundred twenty eight to one eighty. 
+ resource blocks total numbers range is one hundred eighty first to two hundred fifty five.
+ resource blocks will begin at two hundred fifty six to two hundred seventy five.
+ ======================================================
+
+
+=================================================
+ mcs table maps to zero index.     00000
+ from one index indicates mcs table.   00001
+ mcs index equals to two.   00010
+ mcs field maps the third index.   00011
+ indicating fourth index in mcs table.  00100
+ mcs field indicated five.       00101
+ mcs index will include six.   00110
+ mcs field denotes seven.     00111
+ mcs index reveals eight.     01000
+ specifies nine index in mcs table.   01001
+ mcs table indicates ten index.   01010
+ mcs index will map to eleven.    01011
+ the twelve index at mcs table.    01100
+ mcs index maps thirteen line.     01101
+ mcs table shows fourteen line.    01110
+ the mcs table implied fifteen index.   01111
+ mcs index directly mapped to sixteen.  10000
+ the seventeen field from mcs table.   10001
+ the eighteen index at mcs table.       10010
+ from the nineteen index in mcs table.   10011
+ at mcs table the twenty field.            10100
+ starts twenty first index to mcs table.    10101
+ mcs table represents twenty second.    10110
+ mcs index signifies twenty third.              10111
+ mcs table means to twenty fourth index.    11000
+ mcs index maps to twenty fiveth.               11001
+ mcs table indicates twenty sixth field.        11010
+ mcs index will map twenty seventh.            11011
+ mcs table matches twenty eighth index.      11100
+ begins from twenty nineth index in mcs table. 11101
+ follow thirty index to mcs table.   11110
+ mcs index will make thirty first.   11111
+ ==================================================
+ base station includes harq process number one sends to user equipment. 0000
+ gnb includes harq process number two sent to mobile device.   0001
+ gnb carries harq process number three transmits to mobile device.    0010
+ gnb includes harq process number four will send user equipment.    0011
+ gnb includes harq process number five to mobile device.     0100
+ base station includes harq process number six can deliver mobile device.  0101
+ gnb indicates harq process number seven will transmit ue.  0110
+ gnb makes harq process number eight to mobile device.   0111
+ base station takes harq process number nine to mobile device.  1000
+ harq process number ten starts gnb to ue.                               1001
+ base station includes harq process number eleven to mobile device.  1010
+ gnb carries harq process number twelve to user equipment.    1011
+ base station carry harq process number thirteen to mobile device.  1100
+ gnb gets harq process number fourteen sends to ue.   1101
+ gnb has harq process number fifteen delivers mobile device.  1110
+ harq process number sixteen from gnb to ue.   1111  
+ ===================================================
+ first index will represents time domain.          0000
+ time domain will map second row index.        0001
+ the third index in time domain table.               0010 
+ time domain shows the fourth row field.            0011
+ the fifth index indicated time domain.                0100
+ time domain resource allocated to sixth row index.  0101
+ seventh row index expresses time domain.     0110
+ time domain maps the eighth index.                0111 
+ the nineth row index is time domain.                1000
+ time domain gets to ten index.                        1001
+ time domain means eleven row field.                1010
+ time domain directly shows twelve row index.        1011
+ the thirteen index would implied to time domain.    1100 
+ fourteen row index will match time domain.      1101
+ fifteen row index indicates time domain.            1111
+ =====================================================
+ numbers of resource blocks ranges is from eleven to fifteen. 
+ total of resource blocks will start with sixteen to twenty two.   
+ sum of resource blocks begins at twenty third to thirty first.    
+ amounts of resource blocks started thirty second to fourty four.
+ fourty five to sixty three starts of resource blocks. 
+ the number of resource blocks ranges from sixty four to ninety.   
+ the resource blocks has ninety first to one hundred twenty seven.  
+ the resource blocks starts one hundred twenty eight to one eighty. 
+ resource blocks total numbers range is one hundred eighty first to two hundred fifty five.
+ resource blocks will begin at two hundred fifty six to two hundred seventy five.
+ ======================================================

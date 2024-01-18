@@ -1,0 +1,6 @@
+vrb directly mapped to prb.
+start ue to gnb.
+
+vrb directly mapped to prb.
+
+

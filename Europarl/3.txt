@@ -1,0 +1,9 @@
+downlink information.
+vrb directly mapped to prb.
+start ue to gnb.
+duplicates transmission.
+the fifth slot indicates harq feedback.
+time domain resource allocated sixth row index.
+models train at high precision.
+a serving cell received.
+
