@@ -45,7 +45,7 @@ You can change the type of random channel to trian and test in different scenari
 
 ### Training SemanticRL-SCSIU
 ```
-python Trainng_SemanticRL.py --training_config ./config/config_AWGN_RL_SCSIU.yaml --dataset_path $your_data_root
+python3 Trainng_SemanticRL.py --training_config ./config/config_AWGN_RL_SCSIU.yaml --dataset_path $your_data_root
 ```
 
 ## Inference
@@ -74,10 +74,10 @@ SemCom
 ```
 # Step1. load checkpoint and run inference on test set. 
 # Output dir: ./Evaluation/InferenceResutls/$EXP_NAME/xxx.json (output tokens inside)
-python Evaluation/Run_Inference_Checkpoints.py --path $CKPT_PATH --name $EXP_NAME --data_root $your_data_root
+python3 Evaluation/Run_Inference_Checkpoints.py --path $CKPT_PATH --name $EXP_NAME --data_root $your_data_root
 # Step2. calculate metrics like BLEU, CIDER etc.
 # Output dir: ./Evaluation/EvalResults/$EXP_NAME/xxx.json (scores inside)
-python Evaluation/CaptionMetrics-master/Eval_Metric_Checkpoints.py --path Evaluation/InferenceResutls/$EXP_NAME --name $EXP_NAME
+python3 Evaluation/CaptionMetrics-master/Eval_Metric_Checkpoints.py --path Evaluation/InferenceResutls/$EXP_NAME --name $EXP_NAME
 ```
 
 **Reproducing Visual Results**
